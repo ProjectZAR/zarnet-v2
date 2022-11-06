@@ -876,9 +876,13 @@ def tools():
 ##############################################################################################
 def title():
     stdout.write("                                                                                          \n")
-    stdout.write("                                 "+Fore.LIGHTWHITE_EX  +"ZARNET                 \n")
-    stdout.write("                                 "+Fore.LIGHTCYAN_EX   +"V2                \n")
-    stdout.write("                                 "+Fore.LIGHTCYAN_EX   +"by Louis               \n")
+    stdout.write("                                 "+Fore.LIGHTWHITE_EX  +"
+  stdout.write(""+Fore.LIGHTCYAN_EX   +"███████╗ █████╗ ██████╗ ███╗   ██╗███████╗████████╗                \n")
+  stdout.write(""+Fore.LIGHTCYAN_EX   +"╚══███╔╝██╔══██╗██╔══██╗████╗  ██║██╔════╝╚══██╔══╝                \n")
+  stdout.write(""+Fore.LIGHTCYAN_EX   +"  ███╔╝ ███████║██████╔╝██╔██╗ ██║█████╗     ██║                   \n")
+  stdout.write(""+Fore.LIGHTCYAN_EX   +" ███╔╝  ██╔══██║██╔══██╗██║╚██╗██║██╔══╝     ██║                   \n")
+  stdout.write(""+Fore.LIGHTCYAN_EX   +"███████╗██║  ██║██║  ██║██║ ╚████║███████╗   ██║                   \n")
+  stdout.write(""+Fore.LIGHTCYAN_EX   +"╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝   ╚═╝                   \n")
     stdout.write("             "+Fore.LIGHTCYAN_EX            +"        ══╦═════════════════════════════════╦══\n")
     stdout.write("             "+Fore.LIGHTCYAN_EX+"╔═════════╩═════════════════════════════════╩═════════╗\n")
     stdout.write("             "+Fore.LIGHTCYAN_EX+"║ "+Fore.LIGHTWHITE_EX   +"        Welcome To The Main Screen Of ZARNET  "+Fore.LIGHTCYAN_EX  +"       ║\n")
